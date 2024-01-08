@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     private  var name:String = "Erma"
     
     private var surName:String  = "Tani"
+    private var age2:Int = 45
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
