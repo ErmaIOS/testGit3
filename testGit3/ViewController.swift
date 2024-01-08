@@ -9,6 +9,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    private var age:Int = 40
+    
+    private  var name:String = "Erma"
+    
+    private var surName:String  = "Tani"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
